@@ -1,45 +1,48 @@
-# Hi there, I'm Given 👋
+# 👋 Hi, I'm Given
+### Security Operations | Detection Engineering | Cloud Security
 
-![Banner Image](your_banner_image_url_here)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/YOURPROFILE)
+[![Blog](https://img.shields.io/badge/Blog-Read-green)](https://YOURBLOG.com)
 
-## About Me 🚀
+---
 
-I'm a passionate **Information Security** with experience in **Network infustructure and Systems Administration adn Security**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+## 🛡️ About Me
 
-- 🌱 Currently learning: **Security Analyst related skill**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **givendj@outlook.com**
+Experienced cybersecurity practitioner with 5+ years in IT and 
+security operations. Focused on detection engineering, cloud 
+security, and threat hunting across hybrid enterprise environments.
 
-## My Skills 🧠
+**Certifications:**
+- 🏆 CompTIA CySA+
+- 🏆 Microsoft SC-200 — Security Operations Analyst
+- 🏆 Microsoft SC-300 — Identity and Access Administrator
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SC-200](https://img.shields.io/badgecrosoft&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+---
 
-*Replace the above skill badges with your own skills and expertise. To create more badges, use [checkout this repo](https://github.com/alexandresanlim/Badges4-README.md-Profile).*
+## 🔬 Current Research Lab
 
-## Featured Projects 💻
+Building an advanced cybersecurity research environment to validate 
+detection coverage and develop threat hunting playbooks:
 
-### [Project 1 Title](project_1_link)
+- **Hypervisor:** Proxmox VE (32GB RAM)
+- **Firewall:** pfSense CE with Suricata IDS/IPS
+- **SIEM:** Security Onion 2 (Elastic Stack + Zeek)
+- **Cloud:** Microsoft 365 E5 + Microsoft Sentinel
+- **Attack Platform:** Kali Linux
+- **Target Environment:** Windows Server 2022 Active Directory
 
-![Project 1 Screenshot](project_1_screenshot_url)
+---
 
-**[Project 1 Title]** is a **[brief project description]** built with **[technologies used]**. This project demonstrates my ability to **[skills demonstrated by the project]**. You can check out the repository [here](project_1_repository_link).
+## 📁 Projects
 
-### [Project 2 Title](project_2_link)
+| Project | Description | Tools |
+|---|---|---|
+| [🏠 SOC Home Lab](./projects/soc-home-lab) | Enterprise-grade research lab with network segmentation | Proxmox, pfSense, VLANs |
+| [🎣 Phishing Simulation](./projects/phishing-simulation) | Attack simulation & email security hardening | M365, Defender, DMARC |
+| [🔍 AD Attack Detection](./projects/ad-attack-detection) | Purple team AD attack scenarios & detection rules | Kali, Windows Server, Sentinel |
+| [📊 KQL Detection Rules](./projects/kql-detection-rules) | Custom Sentinel analytics rules library | KQL, Sentinel, MITRE ATT&CK |
+| [🛡️ IR Playbooks](./projects/ir-playbooks) | Incident response playbooks for common attack scenarios | NIST, Sentinel, Defender XDR |
 
-![Project 2 Screenshot](project_2_screenshot_url)
+---
 
-**[Project 2 Title]** is a **[brief project description]** built with **[technologies used]**. This project showcases my skills in **[skills demonstrated by the project]**. You can check out the repository [here](project_2_repository_link).
-
-## Get in Touch 📬
-
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**[(your_linkedin_profile_link)](https://www.linkedin.com/in/givendj/)
-- **[Twitter]**(your_twitter_profile_link)
-
-
+## 🧰 Technical Skills
