@@ -46,3 +46,39 @@ detection coverage and develop threat hunting playbooks:
 ---
 
 ## 🧰 Technical Skills
+SIEM & Detection:    Microsoft Sentinel · Security Onion · KQL · Elastic Stack
+Threat Detection:    Suricata · Zeek · MITRE ATT&CK · Sigma Rules
+Cloud Security:      Microsoft 365 E5 · Entra ID · Defender XDR · Zero Trust
+Network Security:    pfSense · Wireshark · Nmap · VLAN Segmentation
+Identity Security:   Conditional Access · PIM · Identity Protection
+Offensive Tools:     Kali Linux · Metasploit · Mimikatz (lab use)
+Platforms:           Windows Server 2022 · Ubuntu · Proxmox VE
+
+---
+
+## 📊 MITRE ATT&CK Coverage
+
+Techniques currently detected and validated in lab environment:
+
+| Tactic | Techniques |
+|---|---|
+| Initial Access | Phishing (T1566), Valid Accounts (T1078) |
+| Credential Access | Kerberoasting (T1558.003), Pass-the-Hash (T1550.002) |
+| Discovery | Network Scanning (T1046), AD Enumeration (T1087) |
+| Lateral Movement | Pass-the-Ticket (T1550.003), RDP (T1021.001) |
+| Command & Control | DNS Tunneling (T1071.004) |
+
+---
+
+## 📝 Latest Blog Posts
+<!-- Update these as you publish -->
+- 🔗 [Building an Enterprise SOC Home Lab on Proxmox](#)
+- 🔗 [Phishing Detection with Microsoft Defender for Office 365](#)
+- 🔗 [Custom KQL Rules for Identity Attack Detection](#)
+
+---
+
+## 📫 Contact
+- 💼 Open to **SOC Analyst Tier 2**, **Cloud Security Analyst** and **Detection Engineer** roles
+- 📧 Reach me via LinkedIn
+
